@@ -1,2 +1,2 @@
 # noxus1_SrN09
-Laby2
+Laby
